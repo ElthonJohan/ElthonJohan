@@ -40,7 +40,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -50,19 +50,21 @@
   </a>
 </p>
 
-
+<br>
 <hr width="36%" >
-
+<br>
 <h3>My GitHub Stats</h3>
+
+<img align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=Niko-Cloud&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+alt="adam-pw"
+bg_color=#808080/>
+
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 <!--
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
@@ -76,7 +78,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
@@ -88,15 +90,22 @@
 
 <br>
 
-<hr width="30%" >
+<hr width="36%" >
 
 <br>
 
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 Una serpiente devorando mis contribuciones
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+
+
+<!--START_SECTION:wordcloud-->
+ <p align='center'><img src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png' alt='Word cloud generated from my GitHub repositories' width='80%'/></p> 
+ <!--END_SECTION:wordcloud-->
+
 
 <!--
 **ElthonJohan/ElthonJohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
